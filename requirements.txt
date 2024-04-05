@@ -1,0 +1,1 @@
+https://github.com/napoles-uach/streamlit_avatar/blob/main/example.py
