@@ -1,2 +1,3 @@
 git+https://github.com/napoles-uach/streamlit_avatar.git@main
 SpeechRecognition
+gTTS
